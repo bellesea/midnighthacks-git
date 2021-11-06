@@ -39,7 +39,7 @@ export default function Nav() {
             rel="noreferrer"
             className="hover:text-gray-500"
           >
-            <h1 className="text-center sm:text-6xl font-semibold text-5xl">Hackathon Name</h1>
+            <h1 className="text-center sm:text-6xl font-semibold text-5xl">Midnight Hacks</h1>
             <h2 className="text-center text-2xl">Introduction to git</h2>
           </a>
         </div>
