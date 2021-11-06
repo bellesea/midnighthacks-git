@@ -13,7 +13,7 @@ export default function Footer() {
               href="https://github.com/eilla1/GitHub-Workshop"
               className="text-blue-400 underline"
             >
-              ella's git exercise
+              ella's git workshop
             </a>
             &#x2665;
           </p>
