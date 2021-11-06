@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("/font/Montserrat/Montserrat-Regular.ttf");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("/font/Montserrat/Montserrat-SemiBold.ttf");
+  font-style: semi-bold;
+  font-weight: 600;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("/font/Montserrat/Montserrat-Bold.ttf");
+  font-style: bold;
+  font-weight: 700;
+  font-display: swap;
+}
+
+/* @font-face {
+  font-family: "SofiaPro";
+  src: url("/font/Sofia/Sofia Pro Bold Az.otf");
+  font-style: bold;
+  font-weight: 700;
+  font-display: swap;
+} */
